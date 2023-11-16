@@ -1,4 +1,4 @@
-#Thu Nov 16 09:22:39 PYST 2023
+#Thu Nov 16 09:37:57 PYST 2023
 base.0=D\:\\Usuarios\\Documents\\J\\Proyectos Flutter\\The Complete Flutter Development Bootcamp with Dart - Angela Yu\\mi_card_flutter\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
 path.0=classes.dex
 renamed.0=classes.dex
